@@ -1,6 +1,7 @@
 # walkandfindflutter
 
-Weiterer Versuch auf Flutter
+Ein Diplomprojekt für ein Kulturverein - WalkNFind - eine Event- und Equpiment Suchapp mit Geolocation.
+Dart/Flutter BaaS
 
 ## Getting Started
 
